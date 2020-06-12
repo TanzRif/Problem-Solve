@@ -3,11 +3,12 @@ package test;
 public class SwapNumber {
 
 	public static void main(String[] args) {
+		// Java Program to Swap Two Numbers where – a = 20, b = 30.
+		// 2. Java Program to Swap Two Numbers where – a = 20, b = 30
 
 		int a = 20;
 		int b = 30;
 		int c = a + b;
-		
 
 		a = b;
 		int d = c - b;
@@ -19,6 +20,3 @@ public class SwapNumber {
 	}
 
 }
-
-//Java Program to Swap Two Numbers where – a = 20, b = 30.
-//2.  Java Program to Swap Two Numbers where – a = 20, b = 30.

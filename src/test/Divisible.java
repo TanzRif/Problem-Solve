@@ -3,6 +3,9 @@ package test;
 public class Divisible {
 
 	public static void main(String[] args) {
+		
+		//Write a java code to loop through form 1 to 30. Print ding every 
+		//if you find a number is divisible by 5 or print dong if every number is divisible by 15.
 
 		for (int i = 1; i <= 30; i++) {
 			if (i % 5 == 0)
@@ -18,5 +21,4 @@ public class Divisible {
 	}
 
 }
-//Write a java code to loop through form 1 to 30. Print ding every 
-//if you find a number is divisible by 5 or print dong if every number is divisible by 15.
+
